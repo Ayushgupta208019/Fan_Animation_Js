@@ -1,5 +1,3 @@
-# Fan_Animation_Js
-Fan Animation Using JavaScript
 <!DOCTYPE html>
 <html lang="en">
 <head>
